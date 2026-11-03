@@ -21,18 +21,25 @@ I help maintain accurate account and transaction records, investigate issues acr
 - Risk controls, account documentation, and AML/KYC
 - Process improvement, training, and knowledge sharing
 
-## Portfolio projects in planning
+## Portfolio projects
 
-These are proposed demonstration projects, not completed work or client case studies.
+Two portfolio demonstrations using fictional data and a fictional operating model.
 
-### Reconciliation analysis with synthetic data
+### Excel cash reconciliation analysis
 
-Compare a sample CAD transaction ledger with a sample custodian statement using entirely fictional data. Use Excel to identify matched transactions, missing or duplicate entries, timing differences, and amount differences. Planned outputs: a reconciliation workbook, an exception register, and a short explanation of the findings and controls. Foundational SQL queries could be added as a learning extension.
+A formula-based comparison of internal cash records and an external statement. Demonstrates data validation, duplicate detection, cash variance analysis, cutoff investigation and documented exception review.
 
-### Investment operations workflow improvement
+[View the project and download the workbook](https://github.com/silvia-ciobota/silvia-ciobota.github.io/tree/main/projects/cash-reconciliation)
 
-Document a fictional mutual-fund trade-upload and exception-handling workflow, drawing on my experience with systems support, training, and documentation. Planned outputs: a process map, input-validation checklist, ownership and escalation matrix, and concise standard operating procedure. Any proposed efficiency measures would be identified as targets until tested.
+### Investment operations workflow guide
+
+A documented process for file validation, independent approval, upload verification and exception handling. Includes a process map, responsibility matrix, operating checklist and reconciliation handoff example.
+
+[View the project](https://github.com/silvia-ciobota/silvia-ciobota.github.io/tree/main/projects/investment-operations-workflow) · [Read the PDF](https://github.com/silvia-ciobota/silvia-ciobota.github.io/blob/main/projects/investment-operations-workflow/Silvia_Ciobota_Investment_Operations_Workflow.pdf) · [Download the Word guide](https://github.com/silvia-ciobota/silvia-ciobota.github.io/raw/refs/heads/main/projects/investment-operations-workflow/Silvia_Ciobota_Investment_Operations_Workflow.docx)
+
+The examples contain no real client records or employer procedures. The reconciliation exceptions remain open in the sample; the proposed workflow has not been piloted and does not claim measured efficiency gains.
 
 ## Connect
 
 [Portfolio](https://silvia-ciobota.github.io/) · [LinkedIn](https://www.linkedin.com/in/silviaciobota) · [GitHub](https://github.com/silvia-ciobota)
+
