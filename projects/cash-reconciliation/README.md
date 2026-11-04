@@ -2,7 +2,7 @@
 
 A portfolio demonstration comparing fictional internal cash records with a fictional external statement for October 2026. The workbook covers three synthetic CAD accounts.
 
-[Download the Excel workbook](Silvia_Ciobota_Reconciliation_Analysis.xlsx?raw=1)
+[Download the Excel workbook](https://raw.githubusercontent.com/silvia-ciobota/silvia-ciobota.github.io/main/projects/cash-reconciliation/Silvia_Ciobota_Reconciliation_Analysis.xlsx)
 
 ## Business question
 
